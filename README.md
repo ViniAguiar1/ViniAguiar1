@@ -1,4 +1,4 @@
-## Óla  me  chamo Vinicius e bem vindo ao meu Github
+## Olá  me  chamo Vinicius e bem vindo ao meu Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniAguiar1&show_icons=true&theme=radical)
 
