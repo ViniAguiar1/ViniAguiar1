@@ -5,8 +5,6 @@
 
 [![Linkedin](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusaguiar-araujo/)
 
-![Vinicius Github stats](https://github-readme-stats.vercel.app/api?username=ViniAguiar1&show_icons=true&theme=radical)
-
 ### About Me
   I am a passionate full stack developer with solid experience in JavaScript, React, React Native, Node.js, and TypeScript. Throughout my career, I have focused on developing innovative solutions to meet market demands, particularly at EasyToGo, where I collaborate on highly complex projects. I am dedicated to delivering high-quality software, applying best development practices, with a focus on performance, scalability, and user experience. I am continuously improving my skills and staying up-to-date with the latest trends and technologies.
 
