@@ -1,74 +1,96 @@
-# 👋 Hi, I'm Vinicius Aguiar
+# 👋 Hi, I'm **Vinicius Aguiar**
 
-Software Engineer at **Holy Solutions**, developing scalable systems, integrations, authentication flows, dashboards and mobile features.  
-Experienced in web, mobile, and backend development — currently expanding my expertise in **Java backend** and distributed systems.
+**Frontend Engineer** focused on building scalable, high-performance and
+user-centric interfaces using **React, Next.js and React Native**.\
+I work end-to-end on product development, collaborating closely with
+product and backend teams to deliver reliable, modern and impactful
+experiences.
 
----
+Currently, I'm expanding my backend foundation with **Java (Spring
+Boot)** to strengthen my understanding of distributed systems and
+API-driven architectures.
 
-## 🔥 What I Work On
+------------------------------------------------------------------------
 
-- Backend development with **Java 17**
-- API development and system integrations
-- Mobile applications using React Native
-- Modern frontend with React and Next.js
-- Payment services, marketplace integrations and SaaS systems
-- Clean architecture, testing and maintainable engineering practices
+## 🚀 What I Work On
 
----
+-   Modern frontend development with **React**, **Next.js** and
+    **TypeScript**
+-   Mobile development using **React Native**
+-   API integrations, authentication and data-driven interfaces
+-   UI engineering, design systems and reusable component architecture
+-   High-impact product features across web & mobile apps
+-   Backend fundamentals with **Java 17 + Spring Boot**
 
-## 🚀 Featured Projects
+------------------------------------------------------------------------
 
-### **Java HTTP Server (Pure Java)**
-A fully handcrafted HTTP server built using only `jdk.httpserver`.  
-Routes implemented:  
-- `GET /hello`  
-- `GET /products`  
-- `GET /products/{id}`
+## ⭐ Featured Projects
 
-Modular structure with handlers, models and JSON using Gson.
+### **Next.js Web Platform --- FrontHub**
 
----
+A modern web application built with **Next.js**, designed with
+scalability, performance and clean UI architecture.\
+Features include: authentication, reusable components, data-fetching,
+SSR/SSG pages and integration with external APIs.
 
-### **MovePro**
-A complete fitness and nutrition application used by students and nutritionists.  
-Includes authentication, progress tracking, dashboards, Firebase, and mobile + web development.
+------------------------------------------------------------------------
 
----
+### **React Native Mobile App --- FitTrack**
 
-### **FastSeller / XDrop**
-A robust integration platform connecting sellers with Shopee, Mercado Livre, Asaas and other services.  
-Includes marketplace automation, stock sync, API communication and multi-company flows.
+A full mobile experience using **React Native + Expo**, with navigation
+flows, metrics tracking, push notifications and API consumption.
 
----
+------------------------------------------------------------------------
 
-### **iFound**
-A scheduling and management platform designed for the **aesthetics industry**, featuring API + mobile app, client management, services, and appointment control.
+### **Spring Boot API --- TaskFlow**
 
----
+A clean and modular REST API using Java 17 + Spring Boot.\
+Includes authentication, DTOs, validation, pagination, error handling
+and PostgreSQL integration.
+
+------------------------------------------------------------------------
+
+### **Real-World Platforms I Helped Build**
+
+#### **MovePro --- Fitness & Nutrition Platform (Web + Mobile)**
+
+Used by trainers and students. Built interfaces, dashboards,
+authentication, mobile features and service integrations.
+
+#### **FastSeller / XDrop --- Marketplace Automations**
+
+Integrations with Shopee, Mercado Livre, Stripe, Asaas and other
+services. API communication, sync flows and multi-tenant architecture.
+
+#### **iFound --- Scheduling & Business Management**
+
+Platform for the beauty/aesthetics industry with mobile app, admin
+interface and service management.
+
+------------------------------------------------------------------------
 
 ## 🧠 Tech Stack
 
-### **Backend**
-<img src="https://img.shields.io/badge/Java_17-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+### **Frontend**
 
-### **Frontend & Mobile**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+React, Next.js, React Native
+
+### **Backend**
+
+Java 17, Spring Boot
 
 ### **Cloud & DevOps**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-### **Payments & Integrations**
-<img src="https://img.shields.io/badge/Asaas-2396F3?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Mercado_Livre-FFE600?style=for-the-badge&logo=mercadolibre&logoColor=black"/>
+Docker, AWS
 
----
+### **Integrations**
+
+Stripe, Asaas, Mercado Livre
+
+------------------------------------------------------------------------
 
 ## 📫 Contact
 
-📩 Email: vinicius.aguiar1@icloud.com  
-🔗 LinkedIn: https://www.linkedin.com/in/viniciusaguiar-araujo/  
+📩 Email: vinicius.aguiar1@icloud.com\
+🔗 LinkedIn: https://www.linkedin.com/in/viniciusaguiar-araujo/\
 💻 GitHub: https://github.com/ViniAguiar1
