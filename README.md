@@ -1,97 +1,94 @@
 # 👋 Hi, I'm **Vinicius Aguiar**
 
-**Frontend Engineer** focused on building scalable, high-performance and
-user-centric interfaces using **React, Next.js and React Native**.\
-I work across web and mobile applications, delivering features
-end-to-end and integrating complex external services.
+Frontend Engineer specialized in building scalable SaaS platforms using **Next.js, React and React Native**.
 
-I also have experience connecting systems, handling authentication
-flows, managing SaaS platforms and integrating marketplaces.\
-Currently, I'm expanding my backend foundation with **Java (Spring
-Boot)** to strengthen my understanding of distributed systems and
-large-scale APIs.
+I focus on clean architecture, performance, type safety and product-driven development.  
+Currently building and evolving real-world SaaS systems while continuously improving frontend engineering standards.
 
-------------------------------------------------------------------------
+---
 
-## 🚀 What I Work On
+## 🚀 What I Deliver
 
--   Frontend development with **React**, **Next.js**, and **TypeScript**
--   Mobile applications using **React Native**
--   API integrations, authentication and multi-tenant SaaS flows
--   UI engineering, reusable component architecture and performance
--   Backend fundamentals with **Java 17 + Spring Boot**
--   Payment systems, analytics and marketplace integrations
+- Production-ready SaaS dashboards (Next.js App Router)
+- Scalable component architecture with TypeScript
+- Multi-tenant flows and business-oriented systems
+- High-performance interfaces with Tailwind
+- Mobile applications with React Native (Expo)
+- Complex API integrations (payments, marketplaces, messaging)
 
-------------------------------------------------------------------------
+---
 
-## ⭐ Real Projects I Worked On
+## 🏗️ Real-World Projects
 
-### **MovePro --- Fitness & Nutrition Platform (Web + Mobile)**
+### **Vox Pet Digital — SaaS Platform (Founder & Engineer)**
 
-A complete platform for students, trainers and nutritionists.\
-I worked across web and mobile interfaces, including authentication,
-dashboards, training/nutrition flows, Firebase integrations and
-performance improvements.
+Business management platform for pet shops and veterinary clinics.
 
-**Tech:** React, Next.js, React Native, Firebase, TypeScript, REST APIs
+- Multi-tenant architecture
+- Customer & appointment management
+- Financial dashboards and KPIs
+- Onboarding flows and product-led setup
+- Clean modular feature-based structure
 
-------------------------------------------------------------------------
+**Stack:** Next.js, TypeScript, PostgreSQL, Docker, Tailwind
 
-### **FastSeller / XDrop --- Marketplace Automation Platform**
+---
 
-Integration platform connecting sellers with Shopee, Mercado Livre,
-Asaas and other services.\
-I contributed to frontend and mobile features, API communication,
-automation flows, stock sync and multi-company architecture.
+### **MovePro — Fitness & Nutrition Platform**
 
-**Tech:** React, React Native, Node.js, REST APIs, Asaas, Shopee/Meli
-Integrations
+Web & mobile platform for students and trainers.
 
-------------------------------------------------------------------------
+- Authentication flows
+- Student dashboards
+- Training & nutrition modules
+- Firebase integrations
+- Performance improvements
 
-### **iFound --- Scheduling & Business Management Platform**
+**Stack:** React, Next.js, React Native, Firebase
 
-A scheduling and management system for the aesthetics industry,
-including admin panel, client management, services and appointments.
+---
 
-**Tech:** React, React Native, TypeScript, REST APIs
+### **Marketplace Automation Platform (FastSeller / XDrop)**
 
-------------------------------------------------------------------------
+Integration system connecting sellers to marketplaces.
 
-### **Java HTTP Server (Pure Java)**
+- Stock synchronization logic
+- Payment integrations (Asaas)
+- Multi-company architecture
+- API orchestration
 
-A handcrafted HTTP server using only the Java `jdk.httpserver` module,
-developed to deepen my understanding of low-level backend concepts.
+**Stack:** React, React Native, Node.js, REST APIs
 
-**Routes implemented:** - `GET /hello` - `GET /products` -
-`GET /products/{id}`
+---
 
-**Tech:** Java 17, Gson, Modular Architecture
+## 🧠 Core Stack
 
-------------------------------------------------------------------------
+### Frontend
+Next.js • React • TypeScript • Tailwind CSS
 
-## 🧠 Tech Stack
+### Mobile
+React Native • Expo
 
-### **Frontend & Mobile**
+### Backend & Infra
+Node.js • PostgreSQL • Docker • Vercel
 
-React • Next.js • React Native • TypeScript • Tailwind CSS
+### Integrations
+Stripe • Asaas • Mercado Livre • Shopee APIs • Firebase
 
-### **Backend**
+---
 
-Java 17 • Spring Boot (in progress) • Node.js
+## 🎯 Engineering Focus
 
-### **Integrations**
+- Clean code and maintainable architecture
+- Feature-based folder structure
+- Type-safe systems
+- Performance-first mindset
+- Product-driven frontend engineering
 
-Asaas • Stripe • Mercado Livre • Shopee APIs • Firebase
-
-### **Cloud & DevOps**
-
-Docker • AWS • Vercel • Expo
-
-------------------------------------------------------------------------
+---
 
 ## 📫 Contact
 
-📩 Email: **vinicius.aguiar1@icloud.com**\
-🔗 LinkedIn: **https://www.linkedin.com/in/viniciusaguiar-araujo/**\
-💻 GitHub: **https://github.com/ViniAguiar1**
+📩 Email: **vinicius.aguiar1@icloud.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/viniciusaguiar-araujo/  
+💻 GitHub: https://github.com/ViniAguiar1
