@@ -1,94 +1,62 @@
-# 👋 Hi, I'm **Vinicius Aguiar**
+# 👋 Hi, I'm Vinicius Aguiar
 
-Frontend Engineer specialized in building scalable SaaS platforms using **Next.js, React and React Native**.
+Frontend Software Engineer building scalable SaaS platforms using **Next.js, React and React Native**.
 
-I focus on clean architecture, performance, type safety and product-driven development.  
-Currently building and evolving real-world SaaS systems while continuously improving frontend engineering standards.
-
----
-
-## 🚀 What I Deliver
-
-- Production-ready SaaS dashboards (Next.js App Router)
-- Scalable component architecture with TypeScript
-- Multi-tenant flows and business-oriented systems
-- High-performance interfaces with Tailwind
-- Mobile applications with React Native (Expo)
-- Complex API integrations (payments, marketplaces, messaging)
+Focused on real-world systems, performance and business impact.
 
 ---
 
-## 🏗️ Real-World Projects
+## 🚀 Key Experience & Projects
 
-### **Vox Pet Digital — SaaS Platform (Founder & Engineer)**
+### **Ikropp — Software Engineer**
 
-Business management platform for pet shops and veterinary clinics.
+- Development of web and mobile applications used by **50k+ users**
+- End-to-end feature development (frontend → backend integrations)
+- Integration with payment systems (Asaas) and external APIs
+- Participation in frontend architecture and system evolution
 
-- Multi-tenant architecture
-- Customer & appointment management
-- Financial dashboards and KPIs
-- Onboarding flows and product-led setup
-- Clean modular feature-based structure
+**Impact:**
+- Platform operating at scale with thousands of active users
+- Continuous delivery of production features
 
-**Stack:** Next.js, TypeScript, PostgreSQL, Docker, Tailwind
-
----
-
-### **MovePro — Fitness & Nutrition Platform**
-
-Web & mobile platform for students and trainers.
-
-- Authentication flows
-- Student dashboards
-- Training & nutrition modules
-- Firebase integrations
-- Performance improvements
-
-**Stack:** React, Next.js, React Native, Firebase
+**Stack:** React, Next.js, React Native, TypeScript, Node.js
 
 ---
 
 ### **Marketplace Automation Platform (FastSeller / XDrop)**
 
-Integration system connecting sellers to marketplaces.
+- Multi-tenant platform used by **100+ companies**
+- Marketplace integrations (Mercado Livre, Shopee)
+- Stock sync, payments (Asaas), API orchestration
 
-- Stock synchronization logic
-- Payment integrations (Asaas)
-- Multi-company architecture
-- API orchestration
+**Impact:**
+- 100+ active companies  
+- **5-digit monthly revenue (BRL)**  
+- High daily transaction volume  
 
-**Stack:** React, React Native, Node.js, REST APIs
-
----
-
-## 🧠 Core Stack
-
-### Frontend
-Next.js • React • TypeScript • Tailwind CSS
-
-### Mobile
-React Native • Expo
-
-### Backend & Infra
-Node.js • PostgreSQL • Docker • Vercel
-
-### Integrations
-Stripe • Asaas • Mercado Livre • Shopee APIs • Firebase
+**Stack:** React, React Native, Node.js
 
 ---
 
-## 🎯 Engineering Focus
+### **Vox Pet Digital — SaaS Platform (Founder & Engineer)**
 
-- Clean code and maintainable architecture
-- Feature-based folder structure
-- Type-safe systems
-- Performance-first mindset
-- Product-driven frontend engineering
+- Business management system for pet shops
+- Financial dashboards, appointments, medical workflows
+- AI-powered WhatsApp automation
+- Multi-tenant architecture and scalable structure
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Docker
+
+---
+
+## 🧠 Stack
+
+Next.js • React • React Native • TypeScript • Node.js • PostgreSQL • Docker • AWS • Vercel
 
 ---
 
 ## 📫 Contact
 
-📩 Email: **vinicius.aguiar1@icloud.com**  
+🌐 https://viniciusaguiardev.com.br/  
 🔗 LinkedIn: https://www.linkedin.com/in/viniciusaguiar-araujo/  
-💻 GitHub: https://github.com/ViniAguiar1
+💻 GitHub: https://github.com/ViniAguiar1  
