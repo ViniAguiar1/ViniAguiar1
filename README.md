@@ -1,45 +1,28 @@
-# 👋 Hi, I'm Vinicius Aguiar
+# Vinicius Aguiar
 
-**Software Engineer building scalable products, SaaS platforms, and high-performance applications.**
+**Product Engineer — TypeScript, Node.js, React.** I build SaaS platforms and keep them fast under load.
 
-I work mainly with **TypeScript, React, Next.js, Node.js, and PostgreSQL**, with a focus on performance, architecture, and product impact.
-
-### Currently
-
-**Product Engineer @ Chattie**
-
-Building an AI-powered SaaS platform for sales outreach and customer engagement.
-
-* Reduced critical request payloads from **6.7 MB → 19 KB**
-* Improved scalability for workspaces with **5,000+ conversations**
-* Built AI workflows with **Anthropic Claude & Vercel AI SDK**
-
-### Previously
-
-**Software Engineer @ Ikropp**
-
-Built web and mobile applications used by **50k+ users**, working across product development, integrations, and frontend architecture.
-
-**FastSeller / XDrop**
-
-Built a multi-tenant marketplace automation platform used by **100+ companies**, integrating marketplaces, payments, and high-volume order workflows.
-
-### Building
-
-**Vox Pet Digital** — SaaS platform for pet shops and veterinary businesses.
-
-**Keep** — SaaS focused on identifying users at risk of churning by connecting billing and product usage data.
+Open to remote roles (Brazil / US / EU) and consulting work · [Website](https://viniciusaguiardev.com.br/) · [LinkedIn](https://www.linkedin.com/in/viniciusaguiar-araujo/)
 
 ---
 
-## 🧠 Stack
+### Experience
 
-**TypeScript • React • Next.js • Node.js • PostgreSQL • Redis • Docker • AWS • Vercel**
+**[Chattie](https://trychattie.com/)** · Product Engineer · now — AI SaaS for sales outreach and customer engagement.
 
----
+- Cut critical request payloads from **6.7 MB to 19 KB**
+- Scaled workspaces to **5,000+ conversations**
+- Built AI workflows with **Anthropic Claude** and the **Vercel AI SDK**
 
-## 📫 Contact
+**[Ikropp](https://ikropp.com/)** · Software Engineer — web and mobile apps used by **50k+ users**; product development, integrations, frontend architecture.
 
-🌐 [Website](https://viniciusaguiardev.com.br/)
-🔗 [LinkedIn](https://www.linkedin.com/in/viniciusaguiar-araujo/)
-💻 [GitHub](https://github.com/ViniAguiar1)
+**[XDrop](https://xdrop.com.br/)** · Senior Software Engineer — built a multi-tenant marketplace automation platform end-to-end, from scratch: **100+ companies**, **R$500k+ in GMV**, marketplace integrations, payments and high-volume order workflows.
+
+### Products
+
+- **[Keep](https://usekeep.dev/)** — flags users at risk of churning by joining billing and product usage data.
+- **[Vox Pet Digital](https://voxpetdigital.com.br/sistema)** — SaaS for pet shops and veterinary businesses.
+
+### Stack
+
+TypeScript · React · Next.js · Node.js · PostgreSQL · Redis · Docker · AWS · Vercel
