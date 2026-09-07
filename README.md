@@ -1,62 +1,45 @@
 # 👋 Hi, I'm Vinicius Aguiar
 
-Frontend Software Engineer building scalable SaaS platforms using **Next.js, React and React Native**.
+**Software Engineer building scalable products, SaaS platforms, and high-performance applications.**
 
-Focused on real-world systems, performance and business impact.
+I work mainly with **TypeScript, React, Next.js, Node.js, and PostgreSQL**, with a focus on performance, architecture, and product impact.
 
----
+### Currently
 
-## 🚀 Key Experience & Projects
+**Product Engineer @ Chattie**
 
-### **Ikropp — Software Engineer**
+Building an AI-powered SaaS platform for sales outreach and customer engagement.
 
-- Development of web and mobile applications used by **50k+ users**
-- End-to-end feature development (frontend → backend integrations)
-- Integration with payment systems (Asaas) and external APIs
-- Participation in frontend architecture and system evolution
+* Reduced critical request payloads from **6.7 MB → 19 KB**
+* Improved scalability for workspaces with **5,000+ conversations**
+* Built AI workflows with **Anthropic Claude & Vercel AI SDK**
 
-**Impact:**
-- Platform operating at scale with thousands of active users
-- Continuous delivery of production features
+### Previously
 
-**Stack:** React, Next.js, React Native, TypeScript, Node.js
+**Software Engineer @ Ikropp**
 
----
+Built web and mobile applications used by **50k+ users**, working across product development, integrations, and frontend architecture.
 
-### **Marketplace Automation Platform (FastSeller / XDrop)**
+**FastSeller / XDrop**
 
-- Multi-tenant platform used by **100+ companies**
-- Marketplace integrations (Mercado Livre, Shopee)
-- Stock sync, payments (Asaas), API orchestration
+Built a multi-tenant marketplace automation platform used by **100+ companies**, integrating marketplaces, payments, and high-volume order workflows.
 
-**Impact:**
-- 100+ active companies  
-- **5-digit monthly revenue (BRL)**  
-- High daily transaction volume  
+### Building
 
-**Stack:** React, React Native, Node.js
+**Vox Pet Digital** — SaaS platform for pet shops and veterinary businesses.
 
----
-
-### **Vox Pet Digital — SaaS Platform (Founder & Engineer)**
-
-- Business management system for pet shops
-- Financial dashboards, appointments, medical workflows
-- AI-powered WhatsApp automation
-- Multi-tenant architecture and scalable structure
-
-**Stack:** Next.js, TypeScript, PostgreSQL, Docker
+**Keep** — SaaS focused on identifying users at risk of churning by connecting billing and product usage data.
 
 ---
 
 ## 🧠 Stack
 
-Next.js • React • React Native • TypeScript • Node.js • PostgreSQL • Docker • AWS • Vercel
+**TypeScript • React • Next.js • Node.js • PostgreSQL • Redis • Docker • AWS • Vercel**
 
 ---
 
 ## 📫 Contact
 
-🌐 https://viniciusaguiardev.com.br/  
-🔗 LinkedIn: https://www.linkedin.com/in/viniciusaguiar-araujo/  
-💻 GitHub: https://github.com/ViniAguiar1  
+🌐 [Website](https://viniciusaguiardev.com.br/)
+🔗 [LinkedIn](https://www.linkedin.com/in/viniciusaguiar-araujo/)
+💻 [GitHub](https://github.com/ViniAguiar1)
