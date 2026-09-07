@@ -10,8 +10,8 @@ Open to remote roles (Brazil / US / EU) and consulting work · [Website](https:/
 
 **[Chattie](https://trychattie.com/)** · Product Engineer · now — AI SaaS for sales outreach and customer engagement.
 
-- Cut critical request payloads from **6.7 MB to 19 KB**
-- Scaled workspaces to **5,000+ conversations**
+- Cut inbox payloads from **6.7 MB to 19 KB** with cursor pagination and a trimmed list contract — [write-up](https://viniciusaguiardev.com.br/en/posts/inbox-cursor-pagination-virtualization)
+- Held the DOM at ~15 rendered rows in workspaces with **20,000+ conversations** through list virtualization
 - Built AI workflows with **Anthropic Claude** and the **Vercel AI SDK**
 
 **[Ikropp](https://ikropp.com/)** · Software Engineer — web and mobile apps used by **50k+ users**; product development, integrations, frontend architecture.
