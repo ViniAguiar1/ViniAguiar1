@@ -14,9 +14,9 @@ Open to remote roles (Brazil / US / EU) and consulting work · [Website](https:/
 - Held the DOM at ~15 rendered rows in workspaces with **20,000+ conversations** through list virtualization
 - Built AI workflows with **Anthropic Claude** and the **Vercel AI SDK**
 
-**[Ikropp](https://ikropp.com/)** · Software Engineer — web and mobile apps used by **50k+ users**; product development, integrations, frontend architecture.
+**[Ikropp](https://ikropp.com/)** · Software Engineer — built web and mobile apps that grew to **50k+ users**; product development, integrations, frontend architecture.
 
-**[XDrop](https://xdrop.com.br/)** · Senior Software Engineer — built a multi-tenant marketplace automation platform end-to-end, from scratch: **100+ companies**, **R$500k+ in GMV**, marketplace integrations, payments and high-volume order workflows.
+**[X-Drop](https://xdrop.com.br/)** · Senior Software Engineer — built a multi-tenant marketplace automation platform end-to-end, from scratch: **100+ companies**, **R$500k+ in GMV**, marketplace integrations, payments and high-volume order workflows.
 
 ### Products
 
